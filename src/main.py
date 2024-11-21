@@ -1,11 +1,9 @@
 # Программа выводит "Hello, World!" и имеет несколько функций для работы с числами.
 
-# Вывод "Hello, World!"
-print("Hello from feature 2!")
+# Вывод "Hello!"
+print("Hello from feature 2 for main with love)!")
 
 # Функция для сложения двух чисел
-
-print("Hello from Hotfix!")
 
 def add_numbers_a_b(a, b):
     return a + b
