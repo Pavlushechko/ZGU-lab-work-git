@@ -2,7 +2,7 @@
 
 # Вывод "Hello, World!"
 print("Hello from feature 2!")
-
+//
 # Функция для сложения двух чисел
 def add_numbers(a, b):
     return a + b
